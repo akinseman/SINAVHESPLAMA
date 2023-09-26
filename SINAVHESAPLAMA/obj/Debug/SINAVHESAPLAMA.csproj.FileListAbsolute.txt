@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.Form1.resources
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.Properties.Resources.resources
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\bin\Debug\SINAVHESAPLAMA.exe.config
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\bin\Debug\SINAVHESAPLAMA.exe
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\bin\Debug\SINAVHESAPLAMA.pdb
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.exe
+C:\Users\User\source\repos\SINAVHESAPLAMA\SINAVHESAPLAMA\obj\Debug\SINAVHESAPLAMA.pdb
